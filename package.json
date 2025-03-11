@@ -3,9 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardCancel/node-hello-world.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/EduardCancel/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/EduardCancel/node-hello-world#readme",
   "description": ""
 }
